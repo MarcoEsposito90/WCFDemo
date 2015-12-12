@@ -1,0 +1,8 @@
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\DemoHost\bin\Debug\DemoHost.exe.config
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\DemoHost\bin\Debug\DemoHost.exe
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\DemoHost\bin\Debug\DemoHost.pdb
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\DemoHost\bin\Debug\WCFDemoService.dll
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\DemoHost\bin\Debug\WCFDemoService.pdb
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\DemoHost\obj\Debug\DemoHost.csprojResolveAssemblyReference.cache
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\DemoHost\obj\Debug\DemoHost.exe
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\DemoHost\obj\Debug\DemoHost.pdb

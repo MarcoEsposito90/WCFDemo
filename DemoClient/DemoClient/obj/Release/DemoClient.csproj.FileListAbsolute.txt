@@ -1,0 +1,6 @@
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\DemoClient\DemoClient\bin\Release\DemoClient.exe.config
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\DemoClient\DemoClient\bin\Release\DemoClient.exe
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\DemoClient\DemoClient\bin\Release\DemoClient.pdb
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\DemoClient\DemoClient\obj\Release\DemoClient.csprojResolveAssemblyReference.cache
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\DemoClient\DemoClient\obj\Release\DemoClient.exe
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\DemoClient\DemoClient\obj\Release\DemoClient.pdb

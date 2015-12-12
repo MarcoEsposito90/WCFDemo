@@ -1,0 +1,5 @@
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\WCFDemoService\bin\Release\WCFDemoService.dll.config
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\WCFDemoService\bin\Release\WCFDemoService.dll
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\WCFDemoService\bin\Release\WCFDemoService.pdb
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\WCFDemoService\obj\Release\WCFDemoService.dll
+C:\Users\Unieuro\Documents\Poli\ProgrammazioneSistema\Malnati\WCFDemo\WCFDemoService\WCFDemoService\obj\Release\WCFDemoService.pdb
