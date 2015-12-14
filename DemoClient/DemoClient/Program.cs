@@ -18,7 +18,15 @@ namespace DemoClient
             {
 
                 input = Console.ReadLine();
-                Console.WriteLine(proxy.getMessage(input));
+
+                try {
+
+                    Console.WriteLine(proxy.getMessage(input));
+                }
+                catch(Exception e) {
+
+                    Console.WriteLine("Error occurred: " + e.GetType());
+                }
             }
         }
     }
